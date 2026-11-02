@@ -1,0 +1,25 @@
+# Entorno virtual y archivos generados por Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Configuración local y secretos
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Archivos locales de trabajo y datos de supervisión
+xlsx/
+*.xlsx
+*.xls
+*.docx
+*.png
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
