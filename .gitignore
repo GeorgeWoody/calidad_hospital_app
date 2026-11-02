@@ -23,3 +23,8 @@ xlsx/
 Thumbs.db
 .vscode/
 .idea/
+
+# Versiones antiguas y archivos de prueba locales
+config_test.py
+main_copy_OG.py
+main copy*.py
